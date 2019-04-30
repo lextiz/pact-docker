@@ -1,3 +1,5 @@
+**DEPRECATION: This repo is no longer relevant as there is an official [dockerized CLI](https://github.com/pact-foundation/pact-ruby-cli) maintained by Pact team. This repo will be deleted soon.**
+
 # Ruby Pact CLI in a docker container
 
 This docker image contains the Ruby implementations of Pact standalone executables: ```pact-mock-service```, ```pact-stub-service```, ```pact-provider-verifier```, ```pact-broker```, ```pact``` and ```pact-message``` 
